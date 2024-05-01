@@ -1,6 +1,4 @@
 ---
 ---
 
-@import
-  "minima/skins/dark",
-  "minima/initialize";
+@import "{{ site.theme }}";
