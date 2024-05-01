@@ -12,7 +12,7 @@ After you have finished reading this please share it to spread awareness.
 
 If you see anything wrong with this page you can submit a pull request or submit an issue [here](https://github.com/Ikhwaniya/instant-messaging-study/issues).
 
-I will be writing a Arabic fusha translation soon, so please be patient.
+I will be writing a Arabic fushah translation soon, so please be patient.
 
 ## A message for the people stuck in Gaza
 
