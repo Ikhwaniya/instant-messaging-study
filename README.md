@@ -33,7 +33,7 @@ This is the Name of the app.
 This is the score I have given the app based on it's features of privacy and anonymity. The highest score goes to XMPP and the lowest score is tied by Discord and WhatsApp.
 
 ### License
-You can disregard these if you are not a developer or someone planning to make an app with better features.
+You can disregard this column if you are not a developer or someone planning to make an app with better features.
 
 ### OS limited
 If an application is OS limited, it means you can only use it on certain platforms (such as Windows or iOS). This is noted because some operating systems are not open source and can breach your privacy more than the App can.
