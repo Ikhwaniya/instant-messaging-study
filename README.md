@@ -8,7 +8,7 @@ If you are an advanced user who speaks to other advanced users, I highly recomme
 
 or just use both and don't let your topics be on multiple platforms at once
 
-## A message for people stuck in Gaza
+## A message for the people stuck in Gaza
 
 I highly recommend using [Briar](https://briarproject.org/quick-start/ar/) if you have a android mobile device. Briar will allow you and your family to stay in contact even when there is no internet. If you are by the border of Egypt and Gaza, and you have an Egyptian friend with briar on their phone, your phones can connect via bluetooth and you will be able to get messages out to people who are in other parts of the world by your friend's phone automatically relaying the message.
 
