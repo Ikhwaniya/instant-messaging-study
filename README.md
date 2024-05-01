@@ -79,7 +79,7 @@ Applications that profit from their users or stock investors may change their bi
 ### **Anon register**
 Applications with anonymous registration paired with good encryption can be very good for privacy and anonymity.
 
-### **Post-quantum
+### **Post-quantum**
 Quantum computers have the ability to bruteforce
 
 ### **Auto-Delete**
