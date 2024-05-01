@@ -8,6 +8,10 @@ If you are an advanced user who speaks to other advanced users, I highly recomme
 
 or just use both and don't let your topics be on multiple platforms at once
 
+After you have finished reading this please share it to spread awareness.
+
+If you see anything wrong with this page you can submit a pull request or submit an issue [here](https://github.com/Ikhwaniya/instant-messaging-study/issues).
+
 ## A message for the people stuck in Gaza
 
 I highly recommend using [Briar](https://briarproject.org/quick-start/ar/) if you have a android mobile device. Briar will allow you and your family to stay in contact even when there is no internet. If you are by the border of Egypt and Gaza, and you have an Egyptian friend with briar on their phone, your phones can connect via bluetooth and you will be able to get messages out to people who are in other parts of the world by your friend's phone automatically relaying the message.
@@ -103,3 +107,6 @@ Some chat applications use anonymization networks so you can speak to untrusted 
 
 ### **E2EE**
 End-to-end encryption is used to make sure that not only you and the contact are the people exchanging messages, but also so no other device than yours and the contact's can read it
+
+## Why should I care
+By allowing your information to be given to federal agencies, it may allow progression within their information network. If you have connection to journalists or friends of friends of journalists, you may cause their information to be at risk simply by using an application that gives all it's information to authorities while being friends with them. You are also submitting to unlawful surveillance with and without your knowledge, which could be violating your rights depending on what country you live in.
