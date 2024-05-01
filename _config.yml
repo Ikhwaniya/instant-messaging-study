@@ -6,7 +6,5 @@ plugins:
   - jekyll-paginate
 
 remote_theme: jekyll/minima
-minima:
-  skin: dark
 
 title: Instant Messaging Study
