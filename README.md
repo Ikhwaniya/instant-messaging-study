@@ -12,6 +12,8 @@ After you have finished reading this please share it to spread awareness.
 
 If you see anything wrong with this page you can submit a pull request or submit an issue [here](https://github.com/Ikhwaniya/instant-messaging-study/issues).
 
+I will be writing a Arabic fusha translation soon, so please be patient.
+
 ## A message for the people stuck in Gaza
 
 I highly recommend using [Briar](https://briarproject.org/quick-start/ar/) if you have a android mobile device. Briar will allow you and your family to stay in contact even when there is no internet. If you are by the border of Egypt and Gaza, and you have an Egyptian friend with briar on their phone, your phones can connect via bluetooth and you will be able to get messages out to people who are in other parts of the world by your friend's phone automatically relaying the message.
