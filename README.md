@@ -18,6 +18,11 @@ I will be writing a Arabic fushah translation soon, so please be patient.
 
 I highly recommend using [Briar](https://briarproject.org/quick-start/ar/) if you have a android mobile device. Briar will allow you and your family to stay in contact even when there is no internet. If you are by the border of Egypt and Gaza, and you have an Egyptian friend with briar on their phone, your phones can connect via bluetooth and you will be able to get messages out to people who are in other parts of the world by your friend's phone automatically relaying the message.
 
+**DO NOT USE WHATSAPP**
+as of April 23rd, 2024, WhatsApp has been providing Israeli terrorists (specifically the IDF) with the information needed to find and kill Palestinian civilians.
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Whatsapp leaked Palestinians&#39; information to the Israeli army. If a Palestinian family is at home, information is leaked to the Israeli army and they target the house where the family lives. <a href="https://t.co/Obqe6e894F">pic.twitter.com/Obqe6e894F</a></p>&mdash; Gaza Notifications (@gazanotice) <a href="https://twitter.com/gazanotice/status/1782759075048026322?ref_src=twsrc%5Etfw">April 23, 2024</a></blockquote> 
+
 ## A notice about Berty and SimpleX
 The applications "Berty" and "SimpleX" have an oddly overwhelming amount of features that appeal too much to criminals and put more effort into advertising it than the app itself. Be very wary about these apps as they may be honeypots.
 
@@ -29,10 +34,7 @@ WhatsApp started as a fork of [Signal](https://signal.org/download/) by former Y
 
 WhatsApp is not the only problem in terms of mass security vulnerability, but also apps that are likely on your teenage childrens' phones, such as Discord and Snapchat. If you take a look at the CSV I have linked at the beginning of this introduction, you can see that Discord and WhatsApp have the lowest score, I didn't bother to add Snapchat due to how ridiculous Snapchat's security is, but if it was there it would certainly be lower than both Discord and WhatsApp.
 
-
-
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Whatsapp leaked Palestinians&#39; information to the Israeli army. If a Palestinian family is at home, information is leaked to the Israeli army and they target the house where the family lives. <a href="https://t.co/Obqe6e894F">pic.twitter.com/Obqe6e894F</a></p>&mdash; Gaza Notifications (@gazanotice) <a href="https://twitter.com/gazanotice/status/1782759075048026322?ref_src=twsrc%5Etfw">April 23, 2024</a></blockquote> 
-
+If you take a look at the tweet embedded in this site above in the Gaza message section, WhatsApp has been sending information to Israeli terrorists for their campaign of killing innocent Palestinian civilians. This means that by using WhatsApp you and your friends and family who use WhatsApp are indirectly complicit in genocide by contribution to the information network put together by the help of Jewish-American Facebook CEO Mark Zuckerberg and the terrorist Israeli "intelligence" Mossad.
 
 Let's go through the CSV column by column
 
