@@ -21,7 +21,11 @@ I highly recommend using [Briar](https://briarproject.org/quick-start/ar/) if yo
 **DO NOT USE WHATSAPP**
 as of April 23rd, 2024, WhatsApp has been providing Israeli terrorists (specifically the IDF) with the information needed to find and kill Palestinian civilians.
 
+<br/>
+
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Whatsapp leaked Palestinians&#39; information to the Israeli army. If a Palestinian family is at home, information is leaked to the Israeli army and they target the house where the family lives. <a href="https://t.co/Obqe6e894F">pic.twitter.com/Obqe6e894F</a></p>&mdash; Gaza Notifications (@gazanotice) <a href="https://twitter.com/gazanotice/status/1782759075048026322?ref_src=twsrc%5Etfw">April 23, 2024</a></blockquote> 
+
+<br/>
 
 ## A notice about Berty and SimpleX
 The applications "Berty" and "SimpleX" have an oddly overwhelming amount of features that appeal too much to criminals and put more effort into advertising it than the app itself. Be very wary about these apps as they may be honeypots.
