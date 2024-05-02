@@ -29,6 +29,8 @@ WhatsApp started as a fork of [Signal](https://signal.org/download/) by former Y
 
 WhatsApp is not the only problem in terms of mass security vulnerability, but also apps that are likely on your teenage childrens' phones, such as Discord and Snapchat. If you take a look at the CSV I have linked at the beginning of this introduction, you can see that Discord and WhatsApp have the lowest score, I didn't bother to add Snapchat due to how ridiculous Snapchat's security is, but if it was there it would certainly be lower than both Discord and WhatsApp.
 
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Whatsapp leaked Palestinians&#39; information to the Israeli army. If a Palestinian family is at home, information is leaked to the Israeli army and they target the house where the family lives. <a href="https://t.co/Obqe6e894F">pic.twitter.com/Obqe6e894F</a></p>&mdash; Gaza Notifications (@gazanotice) <a href="https://twitter.com/gazanotice/status/1782759075048026322?ref_src=twsrc%5Etfw">April 23, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 Let's go through the CSV column by column
 
 ### **Points**
