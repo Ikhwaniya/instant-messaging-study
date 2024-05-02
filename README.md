@@ -31,8 +31,7 @@ WhatsApp is not the only problem in terms of mass security vulnerability, but al
 
 
 
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Whatsapp leaked Palestinians&#39; information to the Israeli army. If a Palestinian family is at home, information is leaked to the Israeli army and they target the house where the family lives. <a href="https://t.co/Obqe6e894F">pic.twitter.com/Obqe6e894F</a></p>&mdash; Gaza Notifications (@gazanotice) <a href="https://twitter.com/gazanotice/status/1782759075048026322?ref_src=twsrc%5Etfw">April 23, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Whatsapp leaked Palestinians&#39; information to the Israeli army. If a Palestinian family is at home, information is leaked to the Israeli army and they target the house where the family lives. <a href="https://t.co/Obqe6e894F">pic.twitter.com/Obqe6e894F</a></p>&mdash; Gaza Notifications (@gazanotice) <a href="https://twitter.com/gazanotice/status/1782759075048026322?ref_src=twsrc%5Etfw">April 23, 2024</a></blockquote> 
 
 
 Let's go through the CSV column by column
