@@ -1,4 +1,6 @@
-[Arabic](https://ikhwaniya.github.io/instant-messaging-study/arabic)
+# English Version
+
+[العربية](https://ikhwaniya.github.io/instant-messaging-study/arabic)
 
 Millions of Muslims are spied on every year illegally by terrorist organizations such as the NSA and Mossad, this repository/page is to bring awareness of anonymity guides and privacy guides to Muslims.
 
@@ -14,14 +16,10 @@ After you have finished reading this please share it to spread awareness.
 
 If you see anything wrong with this page you can submit a pull request or submit an issue [here](https://github.com/Ikhwaniya/instant-messaging-study/issues).
 
-
 [Here's a video](https://www.youtube.com/embed/aHp4eyMLVHM) by privacy advocate "Mental Outlaw" if you don't want to spend time reading and do better with videos.
 
 *Note 1: This YouTuber gets very passionate and angry in this video, and they are not Muslim, do not watch around children.*\
 *Note 2: The video is outdated and Signal now has MOST of the same extra features as Telegram and WhatsApp, Telegram is not recommended either.*
-
-
-I will be writing a Arabic fushah translation soon, so please be patient.
 
 ## A message for the people stuck in Gaza
 
