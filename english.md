@@ -26,7 +26,7 @@ If you see anything wrong with this page you can submit a pull request or submit
 
 I highly recommend using [Briar](https://briarproject.org/quick-start/ar/) if you have a android mobile device. Briar will allow you and your family to stay in contact even when there is no internet. If you are by the border of Egypt and Gaza, and you have an Egyptian friend with briar on their phone, your phones can connect via bluetooth and you will be able to get messages out to people who are in other parts of the world by your friend's phone automatically relaying the message.
 
-**DO NOT USE WHATSAPP**
+**DO NOT USE WHATSAPP**\
 as of April 23rd, 2024, WhatsApp has been providing Israeli terrorists (specifically the IDF) with the information needed to find and kill Palestinian civilians.
 
 <br/>
