@@ -34,7 +34,8 @@ title: العربية
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ar" dir="rtl">قام واتساب بتسريب معلومات الفلسطينيين إلى الجيش الإسرائيلي. إذا كانت عائلة فلسطينية في المنزل، يتم تسريب المعلومات إلى الجيش الإسرائيلي ويستهدفون المنزل الذي تعيش فيه العائلة. <a href="https://t.co/Obqe6e894F">pic.twitter.com/Obqe6e894F</a></p>&mdash; Gaza Notifications (@gazanotice) <a href="https://twitter.com/gazanotice/status/1782759075048026322?ref_src=twsrc%5Etfw">23 أبريل، 2024</a></blockquote>
 
-[تم تثبيت برنامج تجسس إسرائيلي عبر الواتساب](https://www.youtube.com/watch/mt4cJelQIPI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mt4cJelQIPI?si=U7MyAIM_2XruJlsm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<span>الانجليزية فقط</span>
 <br/>
 
 ## إشعار حول بيرتي وسيمبلكس
