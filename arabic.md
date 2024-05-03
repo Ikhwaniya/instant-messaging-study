@@ -1,4 +1,4 @@
-# Arabic Version
+# النسخة العربية
 
 [English](https://ikhwaniya.github.io/instant-messaging-study/)
 
