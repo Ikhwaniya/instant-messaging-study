@@ -4,17 +4,12 @@ title: العربية
 ---
 
 <style>
-
-p, h2, h3, h4, h5, h6 :not(header) {
-    text-align: left; /* Align text to the right */
+body :not(header) {
+    text-align: right;
 }
 
-a {
-    text-align: left;
-}
-    
-h1 {
-    text-align: left;
+header {
+    text-align: initial;
 }
 </style>
 
