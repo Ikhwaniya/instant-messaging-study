@@ -40,7 +40,7 @@ as of April 23rd, 2024, WhatsApp has been providing Israeli terrorists (specific
 ## A notice about Berty and SimpleX
 The applications "Berty" and "SimpleX" have an oddly overwhelming amount of features that appeal too much to criminals and put more effort into advertising it than the app itself. Be very wary about these apps as they may be honeypots.
 
-## Introduction
+### Introduction
 
 [Please review this CSV file or have it in another tab while reading.](https://github.com/Ikhwaniya/Instant-Messaging-Study/blob/main/Instant%20Messengers.csv)
 
