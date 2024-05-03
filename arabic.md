@@ -11,6 +11,7 @@ body :not(header) {
 
 header {
     text-align: initial;
+    direction: initial;
 }
 </style>
 
