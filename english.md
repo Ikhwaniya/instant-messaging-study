@@ -5,7 +5,7 @@ title: English
 
 Millions of Muslims are spied on every year illegally by terrorist organizations such as the NSA and Mossad, this repository/page is to bring awareness of anonymity guides and privacy guides to Muslims.
 
-I highly recommend you also read [the anonymousplanet guide to anonymity](https://anonymousplanet.org/guide.html), if you have ADHD and are unable to read it then simply skim over the necessary resources.
+I'd suggest exploring the [AnonymousPlanet guide to anonymity](https://anonymousplanet.org/guide.html) for comprehensive insights into maintaining privacy. Should you encounter any difficulties absorbing the content in its entirety, consider skimming over necessary resources.
 
 The jist of this project is; if you use WhatsApp don't use it and use [Signal](https://signal.org/download/) instead
 
