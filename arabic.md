@@ -8,8 +8,16 @@ body {
     direction: rtl; /* Set the text direction to right-to-left */
 }
 
-p, h1, h2, h3, h4, h5, h6 {
+p, h2, h3, h4, h5, h6 {
     text-align: right; /* Align text to the right */
+}
+
+a {
+    text-align: left;
+}
+    
+h1 {
+    text-align: left;
 }
 </style>
 
