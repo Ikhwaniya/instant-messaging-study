@@ -5,7 +5,8 @@ title: العربية
 
 <style>
 body :not(header) {
-    text-align: right;
+    text-align: rtl;
+    direction: rtl;
 }
 
 header {
