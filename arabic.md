@@ -1,4 +1,5 @@
 # العربية
+##
 
 يتم التجسس على الملايين من المسلمين كل عام بشكل غير قانوني من قبل منظمات إرهابية مثل وكالة الأمن القومي الأمريكية والموساد، وهذا المستودع/الصفحة مخصص لزيادة الوعي بدلائل السرية والخصوصية لدى المسلمين.
 
@@ -31,11 +32,7 @@
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ar" dir="rtl">قام واتساب بتسريب معلومات الفلسطينيين إلى الجيش الإسرائيلي. إذا كانت عائلة فلسطينية في المنزل، يتم تسريب المعلومات إلى الجيش الإسرائيلي ويستهدفون المنزل الذي تعيش فيه العائلة. <a href="https://t.co/Obqe6e894F">pic.twitter.com/Obqe6e894F</a></p>&mdash; Gaza Notifications (@gazanotice) <a href="https://twitter.com/gazanotice/status/1782759075048026322?ref_src=twsrc%5Etfw">23 أبريل، 2024</a></blockquote>
 
-برنامج التجسس الإسرائيلي يتم تثبيته عبر واتساب: [https://www.youtube.com/watch/mt4cJelQIPI](https://www.youtube.com/watch/mt4cJelQIPI)
-
-<br/>
-
-
+[تم تثبيت برنامج تجسس إسرائيلي عبر الواتساب](https://www.youtube.com/watch/mt4cJelQIPI)
 <br/>
 
 ## إشعار حول بيرتي وسيمبلكس
