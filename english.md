@@ -44,7 +44,7 @@ The applications "Berty" and "SimpleX" have an oddly overwhelming amount of feat
 
 [Please review this CSV file or have it in another tab while reading.](https://github.com/Ikhwaniya/Instant-Messaging-Study/blob/main/Instant%20Messengers.csv)
 
-WhatsApp started as a fork of [Signal](https://signal.org/download/) by former Yahoo employees and eventually bought by Jewish-American CEO Mark Zuckerburg, who is also the CEO of Facebook, a company known for spying on and collection information on billions of people. WhatsApp has been known for having tons of vulnerabilities and issues involving and not limited to; cryptography, trust, and backdoors. 
+WhatsApp started as a fork of [Signal](https://signal.org/download/) by former Yahoo employees and eventually bought by Jewish-American CEO Mark Zuckerburg, who is also the CEO of Facebook, a company known for spying on and collecting information on billions of people. WhatsApp has been known for having tons of vulnerabilities and issues involving and not limited to; cryptography, trust, and backdoors. 
 
 WhatsApp is not the only problem in terms of mass security vulnerability, but also apps that are likely on your teenage childrens' phones, such as Discord and Snapchat. If you take a look at the CSV I have linked at the beginning of this introduction, you can see that Discord and WhatsApp have the lowest score, I didn't bother to add Snapchat due to how ridiculous Snapchat's security is, but if it was there it would certainly be lower than both Discord and WhatsApp.
 
