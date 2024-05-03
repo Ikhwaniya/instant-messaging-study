@@ -17,7 +17,7 @@ After you have finished reading this please share it to spread awareness.
 
 If you see anything wrong with this page you can submit a pull request or submit an issue [here](https://github.com/Ikhwaniya/instant-messaging-study/issues).
 
-[Here's a video](https://www.youtube.com/embed/aHp4eyMLVHM) by privacy advocate "Mental Outlaw" if you don't want to spend time reading and do better with videos.
+[Here's a video](https://www.youtube.com/watch?v=shpiVm1qpnw) by privacy advocate "The Hated One" if you do better with videos.
 
 *Note 1: This YouTuber gets very passionate and angry in this video, and they are not Muslim, do not watch around children.*\
 *Note 2: The video is outdated and Signal now has MOST of the same extra features as Telegram and WhatsApp, Telegram is not recommended either.*
