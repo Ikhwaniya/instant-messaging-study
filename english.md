@@ -7,11 +7,11 @@ Millions of Muslims are spied on every year illegally by terrorist organizations
 
 I'd suggest exploring the [AnonymousPlanet guide to anonymity](https://anonymousplanet.org/guide.html) for comprehensive insights into maintaining privacy. Should you encounter any difficulties absorbing the content in its entirety, consider skimming over necessary resources.
 
-The jist of this project is; if you use WhatsApp don't use it and use [Signal](https://signal.org/download/) instead
+The jist of this project is; if you use WhatsApp don't use it and use [Signal](https://signal.org/download/) instead.
 
-If you are an advanced user who speaks to other advanced users, I highly recommend using an [XMPP](https://xmpp.org/) client such as [Gajim](https://gajim.org/) or [Dino](https://dino.im/) in combination [i2p](https://geti2p.net/en/)
+If you are an advanced user who speaks to other advanced users, I highly recommend using an [XMPP](https://xmpp.org/) client such as [Gajim](https://gajim.org/) or [Dino](https://dino.im/) in combination with [i2p](https://geti2p.net/en/).
 
-or just use both and don't let your topics be on multiple platforms at once
+or just use both and don't let your topics be on multiple platforms at once.
 
 After you have finished reading this please share it to spread awareness.
 
