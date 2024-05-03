@@ -4,12 +4,9 @@ title: العربية
 ---
 
 <style>
-body :not(header) {
-    direction: rtl; /* Set the text direction to right-to-left */
-}
 
 p, h2, h3, h4, h5, h6 :not(header) {
-    text-align: right; /* Align text to the right */
+    text-align: left; /* Align text to the right */
 }
 
 a {
