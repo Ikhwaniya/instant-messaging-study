@@ -12,6 +12,8 @@ After you have finished reading this please share it to spread awareness.
 
 If you see anything wrong with this page you can submit a pull request or submit an issue [here](https://github.com/Ikhwaniya/instant-messaging-study/issues).
 
+[Here's a video](https://www.youtube.com/embed/aHp4eyMLVHM) by privacy advocate "Mental Outlaw" if you don't want to spend time reading and do better with videos (warning; This YouTuber gets very passionate and angry in this video, and they are not Muslim, do not watch around children.)
+
 I will be writing a Arabic fushah translation soon, so please be patient.
 
 ## A message for the people stuck in Gaza
@@ -23,7 +25,9 @@ as of April 23rd, 2024, WhatsApp has been providing Israeli terrorists (specific
 
 <br/>
 
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Whatsapp leaked Palestinians&#39; information to the Israeli army. If a Palestinian family is at home, information is leaked to the Israeli army and they target the house where the family lives. <a href="https://t.co/Obqe6e894F">pic.twitter.com/Obqe6e894F</a></p>&mdash; Gaza Notifications (@gazanotice) <a href="https://twitter.com/gazanotice/status/1782759075048026322?ref_src=twsrc%5Etfw">April 23, 2024</a></blockquote> 
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Whatsapp leaked Palestinians&#39; information to the Israeli army. If a Palestinian family is at home, information is leaked to the Israeli army and they target the house where the family lives. <a href="https://t.co/Obqe6e894F">pic.twitter.com/Obqe6e894F</a></p>&mdash; Gaza Notifications (@gazanotice) <a href="https://twitter.com/gazanotice/status/1782759075048026322?ref_src=twsrc%5Etfw">April 23, 2024</a></blockquote>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mt4cJelQIPI?si=U7MyAIM_2XruJlsm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br/>
 
@@ -38,7 +42,7 @@ WhatsApp started as a fork of [Signal](https://signal.org/download/) by former Y
 
 WhatsApp is not the only problem in terms of mass security vulnerability, but also apps that are likely on your teenage childrens' phones, such as Discord and Snapchat. If you take a look at the CSV I have linked at the beginning of this introduction, you can see that Discord and WhatsApp have the lowest score, I didn't bother to add Snapchat due to how ridiculous Snapchat's security is, but if it was there it would certainly be lower than both Discord and WhatsApp.
 
-If you take a look at the tweet embedded in this site above in the Gaza message section, WhatsApp has been sending information to Israeli terrorists for their campaign of killing innocent Palestinian civilians. This means that by using WhatsApp you and your friends and family who use WhatsApp are indirectly complicit in genocide by contribution to the information network put together by the help of Jewish-American Facebook CEO Mark Zuckerberg and the terrorist Israeli "intelligence" Mossad.
+If you take a look at the tweet embedded in this site above in the Gaza message section, WhatsApp has been ***willingly*** sending information to Israeli terrorists for their campaign of killing innocent Palestinian civilians. This means that by using WhatsApp you and your friends and family who use WhatsApp are indirectly complicit in genocide by contribution to the information network put together by the help of Jewish-American Facebook CEO Mark Zuckerberg and the terrorist Israeli "intelligence" Mossad.
 
 Let's go through the CSV column by column
 
