@@ -9,7 +9,7 @@ body :not(header) {
     direction: rtl;
 }
 
-header {
+header,a {
     text-align: initial;
     direction: initial;
 }
