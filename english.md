@@ -101,7 +101,7 @@ Applications that profit from their users or stock investors may change their bi
 Applications with anonymous registration paired with good encryption can be very good for privacy and anonymity.
 
 ### **Post-quantum**
-Quantum computers have the ability to bruteforce
+Quantum computers have the ability to bruteforce and crack encryption faster than any computer before, to deal with this people have implement encryptions that are slower to decrypt, even if a correct key is used.
 
 ### **Auto-Delete**
 Automatically deleting messages allows for more private conversations that are harder to track.
